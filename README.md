@@ -1,10 +1,13 @@
 # android-osx
 Making portable android sdk for Mac OS X
 
-##Installation
+__Installation__
 ```
 npm install --save-dev android-osx
 ```
 
-##Usage
+__Usage__
 * This repository is just package all adb & build tools to run on other Mac OS X (x64)
+
+__Release History__
+* 0.0.1 Initial release

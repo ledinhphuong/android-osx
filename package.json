@@ -1,0 +1,29 @@
+{
+  "name": "android-osx",
+  "version": "0.0.1",
+  "description": "Portable android sdk for Mac OS X",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledinhphuong/android-osx.git"
+  },
+  "keywords": [
+    "android",
+    "sdk",
+    "portable",
+    "android",
+    "for",
+    "os",
+    "x",
+    "android-osx"
+  ],
+  "author": "Phuong Le <lephuong.info@gmail.com> (https://github.com/ledinhphuong)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ledinhphuong/android-osx/issues"
+  },
+  "homepage": "https://github.com/ledinhphuong/android-osx#readme"
+}

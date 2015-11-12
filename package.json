@@ -1,6 +1,6 @@
 {
   "name": "android-osx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Portable android sdk for Mac OS X",
   "main": "index.js",
   "scripts": {
